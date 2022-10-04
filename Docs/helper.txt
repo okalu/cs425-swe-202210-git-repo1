@@ -1,0 +1,7 @@
+-Fork the repo
+-clone it
+-create branch 
+-add some changes to  the created branch not in the master
+-add all
+-commit
+-go to remote github the made pull request
